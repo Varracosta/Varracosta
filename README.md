@@ -2,15 +2,12 @@
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="408" height="318" />
 
 ### Hi there, I'm Stacey - aka Varracosta 👋 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=Varracosta&left_text=My%20Page%20Visitors)
 
 I love coding and making games in Unity
 - 🔭 I'm currently working on Pomidor Task Manager;
 - 🌱 I’m currently learning more about Design Patterns;
-- ⚡ I love to draw and create new stuff!;
-
-<br />
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=Varracosta&left_text=My%20Page%20Visitors)
+- ⚡ I love to draw and create new stuff;
 
 <br />
 
