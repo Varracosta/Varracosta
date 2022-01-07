@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=Varracosta&left_text=My%20Page%20Visitors)
 
 I love coding and making games in Unity
-- 🌱 I'm currently learning <s>Monty</s> Python</a>;
+- 🎓 I'm currently learning <s>Monty</s> Python</a>;
 - 🌱 I am tinkering a bit with WPF applications;
 - ⚡ I love to draw and create new stuff;
 
