@@ -14,6 +14,8 @@ I love coding and making games in Unity
 📊**My Activity**
 <!--START_SECTION:waka-->
 ```text
+Total: 1 hr 35 mins
+
 Python   1 hr 35 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
