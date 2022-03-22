@@ -15,8 +15,7 @@ I love coding and making games in Unity
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 35 mins   ████████████████████████▓   98.74 %
-Text     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Python   1 hr            █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
