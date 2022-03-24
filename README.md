@@ -6,7 +6,7 @@
 
 I love coding and making games in Unity
 - 🎓 I'm currently learning <s>Monty</s> Python</a>;
-- 🌱 I am tinkering a bit with WPF applications;
+- 🌱 I am tinkering a bit with WPF applications and ASP.NET;
 - ⚡ I love to draw and create new stuff;
 
 <br />
