@@ -15,8 +15,8 @@ I love coding and making games in Unity
 <!--START_SECTION:waka-->
 
 ```text
-Blazor   2 hrs 23 mins   ████████████████████▓░░░░   82.55 %
-Other    18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+Blazor   3 hrs 2 mins    ███████████████████▒░░░░░   76.83 %
+Other    28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
 ```
 
 <!--END_SECTION:waka-->
