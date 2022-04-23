@@ -15,9 +15,9 @@ I love coding and making games in Unity
 <!--START_SECTION:waka-->
 
 ```text
-C#           2 hrs 28 mins   ██████████░░░░░░░░░░░░░░░   39.95 %
-Blazor       2 hrs 19 mins   █████████▒░░░░░░░░░░░░░░░   37.52 %
-Other        47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+C#           2 hrs 33 mins   ███████████░░░░░░░░░░░░░░   43.38 %
+Blazor       2 hrs 4 mins    █████████░░░░░░░░░░░░░░░░   35.38 %
+Other        43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
 ```
 
 <!--END_SECTION:waka-->
