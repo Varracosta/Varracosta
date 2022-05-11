@@ -15,8 +15,7 @@ I love coding and making games in Unity
 <!--START_SECTION:waka-->
 
 ```text
-C#       1 hr 10 mins    █████████░░░░░░░░░░░░░░░░   35.76 %
-Other    1 hr 3 mins     ████████░░░░░░░░░░░░░░░░░   32.28 %
+Other    59 mins         █████████▓░░░░░░░░░░░░░░░   38.48 %
 ```
 
 <!--END_SECTION:waka-->
