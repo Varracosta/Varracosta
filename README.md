@@ -15,8 +15,8 @@ I love coding and making games in Unity
 <!--START_SECTION:waka-->
 
 ```text
-CSHTML       2 hrs 31 mins   █████████▓░░░░░░░░░░░░░░░   39.08 %
-Other        1 hr 53 mins    ███████▒░░░░░░░░░░░░░░░░░   29.20 %
+CSHTML       2 hrs 35 mins   █████████▒░░░░░░░░░░░░░░░   37.37 %
+Other        2 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.88 %
 ```
 
 <!--END_SECTION:waka-->
