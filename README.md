@@ -5,9 +5,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=Varracosta&left_text=My%20Page%20Visitors)
 
 I love coding and making games in Unity
-- 🎓 I'm currently learning Data Analytics, SQL;
+- 🎓 I'm currently learning Data Analysis and study Statistics, Excel, SQL;
 - 🌱 I am tinkering a bit with Python;
-- ⚡ I love to draw and create new stuff;
+- ⚡ I love to draw and create new stuff :3  ;
 
 <br />
 
